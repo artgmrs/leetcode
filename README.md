@@ -1,5 +1,5 @@
-# LeetCode Problems' Solutions using Python
+# Solução de problemas da plataforma LeetCode
 
-## References
+## Referencias
 - https://github.com/MisterBooo/LeetCodeAnimation/
 - https://www.youtube.com/@NeetCode

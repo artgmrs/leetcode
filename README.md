@@ -1,4 +1,4 @@
-# Solução de problemas da plataforma LeetCode
+# Solução de problemas do LeetCode
 
 ## Referencias
 - https://github.com/MisterBooo/LeetCodeAnimation/

@@ -3,3 +3,4 @@
 ## Referencias
 - https://github.com/MisterBooo/LeetCodeAnimation/
 - https://www.youtube.com/@NeetCode
+- https://neetcode.io/roadmap

@@ -5,6 +5,7 @@
 # senao, se o valor do meio for maior que o esperado, alterar o ponteiro alto para meio - 1
 # retornar false
 
+# O(log n)
 def binary_tree(items, needle):
   lowPointer, highPointer = 0, len(items) - 1
 

@@ -7,5 +7,4 @@ def fat(x):
   
   return x * fat(x-1)
 
-
 print(fat(5))

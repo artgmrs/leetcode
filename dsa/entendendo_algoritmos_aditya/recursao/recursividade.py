@@ -1,4 +1,4 @@
-# Uma função recurssiva deve possuir um caso base e um caso recursivo
+# Uma função recursiva deve possuir um caso base e um caso recursivo
 # A falta do caso base faz a função ser executada em loop infinito 
 
 def fat(x):

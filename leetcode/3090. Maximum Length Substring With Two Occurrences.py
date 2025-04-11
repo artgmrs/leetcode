@@ -1,3 +1,11 @@
+# sliding window
+#- normalmente usado pra resolver problemas que tenham como resultado sub arrays ou tamanho de sub-array ou sub string
+#- while r++ while l++ (expandir com o R e retrair com o L)
+#- cada vez que expandir, adicionar ou aumentar o contador
+#- cada vez que retrair, retirar o character que vai sair do contador
+#- como 
+
+
 def maximumLengthSubstring(s: str):
     l, r = 0, 0
     _max = 1
